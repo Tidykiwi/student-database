@@ -20,6 +20,9 @@ application will perform these functions:<br>
 The numerical marks are converted to a letter grade (such as 96 to 
 an A+).
 
+When the program is <b>executed</b>
+
+
 When the program is running the user is displayed a menu with the following options:<br>
 - Display student marks.<br>
 • Display a table of all the student marks, including the marks for both courses as well as the average mark for each.<br>
@@ -31,5 +34,4 @@ When the program is running the user is displayed a menu with the following opti
 • Ask the user for an ID. Removes the student from the LinkedList.
 - Exit the program.<br>
   
-  After selecting an option (excluding exit) the code for the option 
-  executes, then the user is returned to the menu.
+After selecting an option (excluding exit) the code for the option executes, then the user is returned to the menu.
