@@ -18,8 +18,7 @@ application will perform these functions:<br>
   - exit<br>
 
 The numerical marks are converted to a letter grade (such as 96 to 
-an A+).
-
+an A+).<br>
 
 When the program is <b>executed</b> the following steps are completed before the 
 user interacts with the program:
@@ -32,9 +31,7 @@ name, and the marks for 3 assignments for 2 courses).<br>
 AssignmentMarks object for each course the student has and set the 
 name and marks appropriately.<br>
 - Store the student objects using a Collection Framework (that implements 
-an abstract class).<br>
-
-
+an abstract class).<br><br>
 
 When the program is <b>running</b> the user is displayed a menu with the following options:<br>
 - Display student marks.<br>
@@ -45,7 +42,6 @@ When the program is <b>running</b> the user is displayed a menu with the followi
 • Ask the user to enter the information for the student (including the course marks).<br>
 - Remove student.<br>
 • Ask the user for an ID. Removes the student from the LinkedList.
-- Exit the program.<br>
-- 
+- Exit the program.<br><br>
   
 After selecting an option (excluding exit) the code for the option executes, then the user is returned to the menu.
