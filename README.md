@@ -11,11 +11,11 @@ The application will read a text file ‘studentdata.txt’ containing the data 
 students. The data will be stored using classes and abstract data types.
 The application will display a menu to the user. Based on the user’s input the 
 application will perform these functions:<br>
-  - display student marks<br>
-  - display student grades<br>
-  - add new student<br>
-  - remove student<br>
-  - exit<br>
+  - Display student marks<br>
+  - Display student grades<br>
+  - Add new student<br>
+  - Remove student<br>
+  - Exit<br>
 
 The numerical marks are converted to a letter grade (such as 96 to 
 an A+).<br><br>
