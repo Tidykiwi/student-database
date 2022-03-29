@@ -18,7 +18,7 @@ application will perform these functions:<br>
   - exit<br>
 
 The numerical marks are converted to a letter grade (such as 96 to 
-an A+).<br>
+an A+).<br><br>
 
 When the program is <b>executed</b> the following steps are completed before the 
 user interacts with the program:
