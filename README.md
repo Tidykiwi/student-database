@@ -23,15 +23,13 @@ an A+).
 When the program is running the user is displayed a menu with the following options:<br>
 - Display student marks.<br>
 • Display a table of all the student marks, including the marks for both courses as well as the average mark for each.<br>
-• Display student grades.<br>
-  - Display a table of all the student grades, including the marks for 
-    both courses as well as the average grade for each.<br>
-• Add new student.<br>
-  - Ask the user to enter the information for the student (including the 
-    course marks).<br>
-• Remove student.<br>
-  - Ask the user for an ID. Removes the student from the LinkedList.
-• Exit the program.<br>
+- Display student grades.<br>
+• Display a table of all the student grades, including the marks for both courses as well as the average grade for each.<br>
+- Add new student.<br>
+• Ask the user to enter the information for the student (including the course marks).<br>
+- Remove student.<br>
+• Ask the user for an ID. Removes the student from the LinkedList.
+- Exit the program.<br>
   
   After selecting an option (excluding exit) the code for the option 
   executes, then the user is returned to the menu.
