@@ -20,10 +20,21 @@ application will perform these functions:<br>
 The numerical marks are converted to a letter grade (such as 96 to 
 an A+).
 
-When the program is <b>executed</b>
+When the program is <b>executed</b> the following steps are completed before the 
+user interacts with the program: <br>
+• Read in student data (from studentdata.txt) of the five (5) students (ID, 
+name, and the marks for 3 assignments for 2 courses).<br>
+• Data will be in the following format:<br>
+id,firstName,lastName,mathMark1,mathMark2,mathMark3,englishMark
+1,englishMark2,englishMark3.<br>
+• Create a Student object for each student data given. Create an 
+AssignmentMarks object for each course the student has and set the 
+name and marks appropriately.<br>
+• Store the student objects using a Collection Framework (that implements 
+an abstract class).<br>
 
 
-When the program is running the user is displayed a menu with the following options:<br>
+When the program is <b>running</b> the user is displayed a menu with the following options:<br>
 - Display student marks.<br>
 • Display a table of all the student marks, including the marks for both courses as well as the average mark for each.<br>
 - Display student grades.<br>
