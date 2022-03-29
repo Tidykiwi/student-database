@@ -11,26 +11,26 @@ The application will read a text file ‘studentdata.txt’ containing the data 
 students. The data will be stored using classes and abstract data types.
 The application will display a menu to the user. Based on the user’s input the 
 application will perform these functions:<br>
-  • display student marks<br>
-  • display student grades<br>
-  • add new student<br>
-  • remove student<br>
-  • exit<br>
+  - display student marks<br>
+  - display student grades<br>
+  - add new student<br>
+  - remove student<br>
+  - exit<br>
 
 The numerical marks are converted to a letter grade (such as 96 to 
 an A+).
 
 When the program is <b>executed</b> the following steps are completed before the 
-user interacts with the program: <br>
-• Read in student data (from studentdata.txt) of the five (5) students (ID, 
+user interacts with the program:
+- Read in student data (from studentdata.txt) of the five (5) students (ID, 
 name, and the marks for 3 assignments for 2 courses).<br>
-• Data will be in the following format:<br>
-id,firstName,lastName,mathMark1,mathMark2,mathMark3,englishMark
+- Data will be in the following format:<br>
+• id,firstName,lastName,mathMark1,mathMark2,mathMark3,englishMark
 1,englishMark2,englishMark3.<br>
-• Create a Student object for each student data given. Create an 
+- Create a Student object for each student data given. Create an 
 AssignmentMarks object for each course the student has and set the 
 name and marks appropriately.<br>
-• Store the student objects using a Collection Framework (that implements 
+- Store the student objects using a Collection Framework (that implements 
 an abstract class).<br>
 
 
